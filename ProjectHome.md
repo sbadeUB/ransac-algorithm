@@ -1,0 +1,1 @@
+RANSAC algorithm implemented on C++ by using its paper from 1982.
